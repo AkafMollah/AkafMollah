@@ -1,17 +1,36 @@
-<h1 align="center">Hi 👋, I'm Akaf Mollah</h1>
-<h3 align="center">A passionate Game developer from Bangladesh</h3>
+# 👋 Hi, I'm Akaf Mollah
 
-- 🔭 I’m currently working on **Unity Multiplayer**
+🎮 **Unity Game Developer | 3D Artist | CSE Student**
 
-- 🌱 I’m currently learning **Game Dev(Unity)**
+I'm currently a **University Student in Computer Science & Engineering (CSE)** and an aspiring **Game Developer** focused on creating games with **Unity**.
 
-- 💬 Ask me about **Game Dev**
+### 🎮 About Me
 
-- 📫 How to reach me **akafgamedev@gmail.com**
+- 🎓 Currently studying **Computer Science & Engineering (CSE)**
+- 🎮 **Unity Game Developer** — currently learning and building projects
+- 🌐 Currently working on **Unity Multiplayer Systems**
+- 🧩 Interested in **Game Development & Multiplayer Games**
+- 🎨 I also create **3D Models and Textures**
+- 🚀 Always learning and improving my game development skills
 
+### 🛠️ Skills
 
-<p align="left">
-</p>
+- 🎮 **Game Development**
+- 🎨 **3D Modeling**
+- 🖌️ **3D Texturing**
+- 🌐 **Multiplayer Game Development**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 💻 Software & Tools
+
+- 🎮 **Unity**
+- 🧊 **Autodesk Maya**
+- 🎨 **Substance 3D Painter**
+- 🖼️ **Adobe Photoshop**
+
+### 📫 Contact Me
+
+📧 **Email:** xxx@gmail.com
+
+---
+
+⭐ *Learning, creating, and building games one project at a time.*
