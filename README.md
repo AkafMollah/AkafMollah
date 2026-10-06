@@ -29,7 +29,7 @@ I'm currently a **University Student in Computer Science & Engineering (CSE)** a
 
 ### 📫 Contact Me
 
-📧 **Email:** xxx@gmail.com
+📧 **Email:** akafgamedev@gmail.com
 
 ---
 
